@@ -1,6 +1,6 @@
 {
   "name": "@tsci/seveibar.imu1",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A TSCircuit project",
   "main": "index.tsx",
   "keywords": [
